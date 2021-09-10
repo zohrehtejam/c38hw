@@ -1,0 +1,9 @@
+main: cn.wode490390.nukkit.theend.TheEnd
+name: "TheEnd"
+description: "TheEnd plugin for Nukkit"
+author: "wode490390"
+website: "https://wode490390.cn/"
+version: "${pom.version}"
+api: ["1.0.8"]
+load: STARTUP
+softdepend: ["MobPlugin"]
